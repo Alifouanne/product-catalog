@@ -1,0 +1,10 @@
+{
+  "productList": {
+    "title": "Product catalogus",
+    "details": "Details bekijken"
+  },
+  "productDetail": {
+    "back": "Terug naar Producten",
+    "description": "Beschrijving"
+  }
+}

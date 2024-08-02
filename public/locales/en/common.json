@@ -1,0 +1,10 @@
+{
+  "productList": {
+    "title": "Product Catalog",
+    "details": "View Details"
+  },
+  "productDetail": {
+    "back": "Back to Products",
+    "description": "Description"
+  }
+}
